@@ -10,3 +10,6 @@
 [submodule "az-iot-helper"]
 	path = az-iot-helper
 	url = https://github.com/Azure/az-iot-helper
+[submodule "iot-hub-c-raspberrypi-blink"]
+	path = sample-repos/iot-hub-c-raspberrypi-blink
+	url = https://github.com/Azure-Samples/iot-hub-c-raspberrypi-blink
