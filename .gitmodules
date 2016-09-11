@@ -1,0 +1,12 @@
+[submodule "generator-az-iot"]
+	path = generator-az-iot
+	url = https://github.com/Azure/generator-az-iot.git
+[submodule "device-discovery-cli"]
+	path = device-discovery-cli
+	url = https://github.com/Azure/device-discovery-cli.git
+[submodule "az-iot-bi"]
+	path = az-iot-bi
+	url = https://github.com/Azure/az-iot-bi
+[submodule "az-iot-helper"]
+	path = az-iot-helper
+	url = https://github.com/Azure/az-iot-helper
